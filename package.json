@@ -1,0 +1,12 @@
+{
+    "name": "kidev.accbuilder",
+    "title": "Adobe CC Extension Builder",
+    "description": "Create HTML extensions for Adobe Creative Cloud products [CEP 8]",
+    "homepage": "https://github.com/KIDevs/ACC_Extensions_Builder",
+    "version": "1.0.0",
+    "author": "KIDev (KICreativo Studio) <acc@kicreativo.pro> (http://kicreativo.pro)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.11.0"
+    }
+}   

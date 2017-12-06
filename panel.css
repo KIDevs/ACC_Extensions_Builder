@@ -1,0 +1,71 @@
+/* Prevent scrollbars, slightly enlarge dialog */
+.modal-body.html-acc {
+  overflow: hidden;
+  max-height: 515px;
+}
+
+/* Move the information text up */
+.modal-body.html-acc .dialog-message { margin-top: 0px; }
+
+/* Position image container */
+.html-acc-img {
+  top: -25px;
+  right: -10px;
+  float: right;
+  left: 5px;
+}
+
+/* Decrease the size of the image path */
+.html-acc-img .img-src,
+.html-acc-img .img-error-text { font-size: 0.9em; }
+
+/* Hide Bracket's image path and size display */
+.html-acc-img .image-header,
+.html-acc-img .image-path { display: none; }
+
+/* Error text */
+.html-acc-img .img-error-text { color: #f00; }
+
+/* Scale the image */
+.html-acc-img-container {
+  position: relative;
+  width: 270px;
+  height: 240px;
+}
+
+.html-acc-img-shadow { box-shadow: 0 0 3px #000; }
+
+/* Shift the dialog content (excluding the image) up */
+.html-acc-content {
+  position: relative;
+  bottom: 20px;
+}
+
+/* Space the check boxes apart a bit */
+.html-acc-form > input { margin-bottom: 4px; }
+
+/* Reduce the amount of blank space underneath the number fields */
+.html-acc-form > input[type="number"] { margin-bottom: 4px; }
+
+/* Align the browse button with the other elements */
+.html-acc-dialog a[data-button-id="browse"] {
+  margin-bottom: 4px;
+  margin-left: 10px;
+}
+
+/* Do not place input labels on a new line */
+.html-acc-form > label { display: inline; }
+
+/* Enlarge the "x" between the input fields */
+.html-acc-form .letter-x {
+  font-weight: 900;
+  font-size: 17px;
+}
+
+/* Accommodate the "Full HTML Skeleton" description */
+#full-skeleton-description {
+  position: relative;
+  bottom: 5px;
+  display: inline-block;
+  font-size: 12px;
+}
