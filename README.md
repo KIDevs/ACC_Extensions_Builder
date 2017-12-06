@@ -13,7 +13,7 @@ You don't need to download anything. Just do the following:
 2. Choose `File > Extension Manager` and install it from the "Available" list to use the latest production build, or choose `Install from URL` to install the latest version from this repo.
 Paste the URL of this page (https://github.com/KIDevs/ACC_Extensions_Builder) and click Install
 
-For more informations and tips go to: [Creative Cloud Extension Builder for Brackets](http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
+For more informations and tips go to: [Creative Cloud Extension Builder for Brackets](http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/) and [documentation from Adobe [CEP 8]](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_8.x/Documentation/CEP%208.0%20HTML%20Extension%20Cookbook.md) 
 
 ### Applications Integrated with CEP
 These extensions support CEP HTML extensions.
