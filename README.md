@@ -33,7 +33,15 @@ These extensions support CEP HTML extensions.
 |Muse| MUSE |7.4|-|2015|-|2017|2018|
 |Bridge| KBRG |6|-|6.3.1|-|-|8 (CEP 8)|
 
-# Credits
+# News and ToDo #
+See [NEWS.md](NEWS.md) and [TODO.md](TODO.md)
+
+# License #
+[MIT License](LICENSE)
+
+Created 2017 [KIDev] (kicreativo.pro)
+
+# Credits #
 Thanks to David Deraedt (for the base http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
 
 Thanks to Caleb Ely (for view svg images https://github.com/le717/brackets-html-skeleton)
