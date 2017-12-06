@@ -7,6 +7,6 @@
     "author": "KIDev (KICreativo Studio) <acc@kicreativo.pro> (http://kicreativo.pro)",
     "license": "MIT",
     "engines": {
-        "brackets": ">=1.11.0"
+        "brackets": ">=0.25.0"
     }
 }   
