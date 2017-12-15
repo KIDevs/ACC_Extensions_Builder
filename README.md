@@ -1,7 +1,7 @@
-### ACC Extensions Builder for Brackets
+### ACC Extension Builder for Brackets
 - **Support for Adobe CC 2014+ / 2018 [CEP 8]**
 
-Brackets extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator, InDesign, After Effects, Prelude and FLASH Pro.
+Brackets extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator, InDesign, After Effects, Prelude and FLASH Pro, etc.
 
 ![](http://i.cubeupload.com/QtqXdr.png)
 ![](http://i.cubeupload.com/jnDCk6.jpg)
@@ -15,7 +15,8 @@ Paste the URL of this page (https://github.com/KIDevs/ACC_Extensions_Builder) an
 
 For more informations and tips go to: [Creative Cloud Extension Builder for Brackets](http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/) and [documentation from Adobe [CEP 8]](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_8.x/Documentation/CEP%208.0%20HTML%20Extension%20Cookbook.md) 
 
-### Applications Integrated with CEP
+
+### Application version table and CEP version numbers
 These extensions support CEP HTML extensions.
 
 | Application | Host ID | CC Version | CC 2014 Version  | CC 2015 Version  | CC 2015 Dot Version | CC 2017 Version  |CC 2018 Version|
@@ -42,7 +43,7 @@ See [NEWS.md](NEWS.md) and [TODO.md](TODO.md)
 Created 2017 [KIDev] (kicreativo.pro)
 
 # Credits #
-Thanks to David Deraedt (for the base http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
+Thanks to David Deraedt (for the base of extension http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
 
-Thanks to Caleb Ely (for view svg images https://github.com/le717/brackets-html-skeleton)
+Thanks to Caleb Ely (for the idea of viewing svg images https://github.com/le717/brackets-html-skeleton)
 
