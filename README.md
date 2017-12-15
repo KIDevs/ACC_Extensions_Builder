@@ -3,8 +3,7 @@
 
 Brackets extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator, InDesign, After Effects, Prelude and FLASH Pro, etc.
 
-![](http://i.cubeupload.com/QtqXdr.png)
-![](http://i.cubeupload.com/jnDCk6.jpg)
+![](http://i.cubeupload.com/bBazZq.png)
 
 # Installation
 You don't need to download anything. Just do the following:
