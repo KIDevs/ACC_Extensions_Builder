@@ -39,7 +39,7 @@ See [NEWS.md](NEWS.md) and [TODO.md](TODO.md)
 # License #
 [MIT License](LICENSE)
 
-Created 2017 [[KIDev]](http://vk.com/kidev)) [KICreativo.pro)](http://kicreativo.pro)
+Created 2017 [[KIDev]](http://vk.com/kidev) [KICreativo.pro)](http://kicreativo.pro)
 
 # Credits #
 Thanks to David Deraedt (for the base of extension http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
