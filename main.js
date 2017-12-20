@@ -57,9 +57,9 @@ define(function (require, exports, module) {
         
         var cmd = "";
         if(isWin) {
-            cmd = '"'+sdkFolder.fullPath + 'setdebugmode.bat"';
+            cmd = '"'+sdkFolder.fullPath + 'debugmode.bat"';
         } else {
-            cmd = "'"+sdkFolder.fullPath + "setdebugmode.sh'" ;
+            cmd = "'"+sdkFolder.fullPath + "debugmode.sh'" ;
         } 
                 
         console.log("Brackets cmd:"+cmd);
