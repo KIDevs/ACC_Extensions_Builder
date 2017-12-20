@@ -4,7 +4,7 @@
   <p align="center">Illustrator, InDesign, After Effects, Prelude and FLASH Pro, etc.</p>
   <p align="center"> Support for Adobe CC 2014+ / 2018 [CEP 8]</p>
   <p align="center">
-    <a href="https://github.com/KIDevs/ACC_Extensions_Builder/releases"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg" alt="Platforms"></a></p>
+    <a href="https://github.com/KIDevs/ACC_Extensions_Builder/releases"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg" alt="Platforms"></a></p>
     
 ![](http://i.cubeupload.com/bBazZq.png)
 
