@@ -1,8 +1,11 @@
-### ACC Extension Builder for Brackets
-- **Support for Adobe CC 2014+ / 2018 [CEP 8]**
-
-Brackets extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator, InDesign, After Effects, Prelude and FLASH Pro, etc.
-
+<p align="center">
+  <h3 align="center">ACC Extension Builder for Brackets</h3>
+  <p align="center">Brackets extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, 
+  <p align="center">Illustrator, InDesign, After Effects, Prelude and FLASH Pro, etc.</p>
+  <p align="center"> Support for Adobe CC 2014+ / 2018 [CEP 8]</p>
+  <p align="center">
+    <a href="https://github.com/KIDevs/ACC_Extensions_Builder/releases"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg" alt="Platforms"></a></p>
+    
 ![](http://i.cubeupload.com/bBazZq.png)
 
 # Installation
@@ -13,6 +16,7 @@ You don't need to download anything. Just do the following:
 Paste the URL of this page (https://github.com/KIDevs/ACC_Extensions_Builder) and click Install
 
 For more informations and tips go to: [Creative Cloud Extension Builder for Brackets](http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/) and [documentation from Adobe [CEP 8]](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_8.x/Documentation/CEP%208.0%20HTML%20Extension%20Cookbook.md) 
+
 
 
 ### Application version table and CEP version numbers
