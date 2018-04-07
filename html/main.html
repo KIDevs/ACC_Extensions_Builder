@@ -1,0 +1,57 @@
+<div class="html-acc-dialog template modal hide">
+  <div class="modal-header">
+    <h1 class="dialog-title">Adobe CC Extension Builder</h1>
+  </div>
+
+  <div class="modal-body html-acc">
+
+   <div class="html-acc-img">
+          <div id="html-acc-figure">
+            <img width="229" height="132" alt="logo" />
+         </div>
+    </div>
+    <div class="html-acc-content">
+      <h3>Extension Settings</h3>
+	        <label><b>Adobe Products</b></label> <select id="ACC-host" name="ACC-product">
+                        <option value='0'>Adobe Photoshop CC</option>
+                        <option value='1'>Adobe Illustrator CC</option>
+                        <option value='2'>Adobe Premiere CC</option>
+                        <option value='3'>Adobe Prelude CC</option>
+                        <option value='4'>Adobe InDesign CC</option>
+                        <option value='5'>Adobe Flash Pro CC</option>
+                        <option value='5'>Adobe After Effects CC</option>
+                    </select>
+            <label><b>Extension Name</b></label> <input id="ACC-accname"  type="text" name="ACC-accname" value="ACC Extension">
+                    
+            <label><b>Extension ID</b></label> <input id="ACC-id"  type="text" value="com.acc.ext">
+			
+			<label><b>Template</b></label> <select id="ACC-template" name="ACC-template">
+                        <option value='basic'>basic</option>
+                        <option value='default'>default</option>
+						<option value='spectrum'>spectrum</option>
+                        <option value='theme'>theme</option>
+                        <option value='topcoat'>topcoat</option>
+                    </select>
+
+      <h3>Extension Size</h3>
+         <label>Default Size</label> <input id="ACC-accwidth" type="number" name="defwidth" value="300" placeholder="Width" />
+        <span class="letter-x"> x </span>
+                                    <input id="ACC-accheight" type="number" name="defheight" value="300" placeholder="Height" />
+		
+		<label>Min Size</label>      <input id="ACC-accminwidth"  type="number" name="minwidth" min="0" placeholder="Width" />
+        <span class="letter-x"> x </span>
+                                    <input id="ACC-accminheight" type="number" name="minheight" min="0" placeholder="Height" />
+									
+		<label>Max Size</label> <input id="ACC-accmaxwidth"  type="number" name="maxwidth" min="0" placeholder="Width" />
+        <span class="letter-x"> x </span>
+                                    <input id="ACC-accmaxheight" type="number" name="maxheight" min="0" placeholder="Height" />
+
+    </div>
+  </div>
+
+  <div class="modal-footer">
+    <a class="dialog-button btn primary left" href="https://github.com/KIDevs/ACC_Extensions_Builder">About</a>
+    <a class="dialog-button btn primary" id="ACCSubmit"  href="#">Create Extension</a>
+    <a class="dialog-button btn" data-button-id="close" href="#">Cancel</a>
+  </div>
+</div>

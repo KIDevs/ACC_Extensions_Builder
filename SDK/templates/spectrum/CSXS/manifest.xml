@@ -56,17 +56,17 @@
 					<Menu>Extension-Name</Menu>
 					<Geometry>
 						<Size>
-							<Height>300</Height>
-							<Width>300</Width>
+							<Height><!--@defheight--></Height>
+							<Width><!--@defwidth--></Width>
 						</Size>
-                    <!--<MinSize>
-                            <Height>550</Height>
-                            <Width>400</Width>
+                        <MinSize>
+                            <Height><!--@minheight--></Height>
+                            <Width><!--@minwidth--></Width>
                         </MinSize>
                         <MaxSize>
-                            <Height>550</Height>
-                            <Width>400</Width>
-                        </MaxSize>-->
+                            <Height><!--@maxheight--></Height>
+                            <Width><!--@maxwidth--></Width>
+                        </MaxSize>           
                         
 					</Geometry>
 					<Icons>

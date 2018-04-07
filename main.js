@@ -3,6 +3,7 @@
 
 /** Adobe Creative Cloud Extension Builder (based on CC Extension Builder [by davidderaedt])
     Create HTML extensions for Adobe Creative Cloud products
+	by KICreATIVO [KIDev] (kicreativo.pro)
 */
 define(function (require, exports, module) {
     'use strict';
@@ -16,18 +17,17 @@ define(function (require, exports, module) {
     var FileUtils           = brackets.getModule("file/FileUtils");
     var FileSystem          = brackets.getModule("filesystem/FileSystem");
     var Dialogs             = brackets.getModule("widgets/Dialogs");
-    var PanelTemplate       = require("text!panel.html");
+    var PanelTemplate       = require("text!html/main.html");
     var ExtensionUtils      = brackets.getModule("utils/ExtensionUtils");
     var AppInit             = brackets.getModule("utils/AppInit");
     var NodeConnection      = brackets.getModule("utils/NodeConnection");
 	
-    // Grab our logo to display
-	var accLogo = require.toUrl("img/acc.svg");
+	var accLogo = require.toUrl("html/img/acc.svg");
 	
     var ACC_MENU_ID  = "ACCBuilder.menu";
     var ACC_MENU_NAME = "ACC Extension Builder";
     var NEW_ACC_CMDID  = "ACCBuilder.newExt";
-    var NEW_ACC_MENU_NAME   = "New CC Extension";
+    var NEW_ACC_MENU_NAME   = "New ACC Extension";
     var DEBUGMODE_ON_CMDID  = "ACCBuilder.setDebugMode";
     var DEBUGMODE_ON_CMDNAME   = "Enable Debug Mode";
     
@@ -57,9 +57,9 @@ define(function (require, exports, module) {
         
         var cmd = "";
         if(isWin) {
-            cmd = '"'+sdkFolder.fullPath + 'setdebugmode.bat"';
+            cmd = '"'+sdkFolder.fullPath + 'debugmode.bat"';
         } else {
-            cmd = "'"+sdkFolder.fullPath + "setdebugmode.sh'" ;
+            cmd = "'"+sdkFolder.fullPath + "debugmode.sh'" ;
         } 
                 
         console.log("Brackets cmd:"+cmd);
@@ -80,9 +80,9 @@ define(function (require, exports, module) {
                 
         var cmd = "";
         if(isWin) {
-            cmd = '"'+sdkFolder.fullPath + "createext.bat" + '" default ' + data.extid + "'";
+            cmd = '"'+sdkFolder.fullPath + "newext.bat" + '" ' + data.template + ' ' + data.extid + "'";
         } else {
-            cmd = "'"+sdkFolder.fullPath + "createext.sh"  + "' default " + data.extid;
+            cmd = "'"+sdkFolder.fullPath + "newext.sh"  + "' " + data.template + " " + data.extid;
         } 
                 
         console.log("Brackets cmd:"+cmd);
@@ -127,10 +127,14 @@ define(function (require, exports, module) {
     function _processTemplate(templateString, data) {
         
         var str = templateString;
-        var reg1 = new RegExp("com.example.ext", "g");
-        str = str.replace(reg1, data.extid);
-        var reg2 = new RegExp("Extension-Name", "g");
-        str = str.replace(reg2, data.extname);
+        str = str.replace(new RegExp("com.example.ext", "g"), data.extid);
+        str = str.replace(new RegExp("Extension-Name", "g"), data.extname);
+        str = str.replace(new RegExp("<!--@defheight-->", "g"), data.defheight);
+        str = str.replace(new RegExp("<!--@defwidth-->", "g"), data.defwidth);
+        str = str.replace(new RegExp("<!--@minheight-->", "g"), data.minheight);
+        str = str.replace(new RegExp("<!--@minwidth-->", "g"), data.minwidth);
+        str = str.replace(new RegExp("<!--@maxheight-->", "g"), data.maxheight);
+        str = str.replace(new RegExp("<!--@maxwidth-->", "g"), data.maxwidth);
         
         return str;
     }
@@ -196,7 +200,7 @@ define(function (require, exports, module) {
     
     function createPanel() {
         
-        ExtensionUtils.loadStyleSheet(module, "panel.css");
+        ExtensionUtils.loadStyleSheet(module, "main.css");
         
         Dialogs.showModalDialogUsingTemplate(PanelTemplate);
 		
@@ -205,17 +209,16 @@ define(function (require, exports, module) {
         $("#ACCSubmit").on("click", function (e) {
             
             var data = {
-                extid : $("#ACC-id").val(),
-                extname : $("#ACC-accname").val()
-                /*
-                host: HOSTS[parseInt($("#ACC-host").val(), 10)],
-                width: $("#ACC-accwidth").val(),
-                height: $("#ACC-accheight").val(),
-                minwidth: $("#ACC-accminwidth").val(),
-                minheight: $("#ACC-accminheight").val(),
-                maxwidth: $("#ACC-accmaxwidth").val(),
-                maxheight: $("#ACC-accmaxheight").val()
-                */
+				extid : $("#ACC-id").val(),
+				extname : $("#ACC-accname").val(),
+				host: HOSTS[parseInt($("#ACC-host").val(), 10)],
+		    	width: $("#ACC-accwidth").val(),
+			    height: $("#ACC-accheight").val(),
+		     	minwidth: $("#ACC-accminwidth").val(),
+		    	minheight: $("#ACC-accminheight").val(),
+				maxwidth: $("#ACC-accmaxwidth").val(),
+		    	maxheight: $("#ACC-accmaxheight").val(),
+ 				template: $("#ACC-template").val()
             };
                         
             createExtension(data);
@@ -239,16 +242,15 @@ define(function (require, exports, module) {
 
     function setupMenu(){
         
-        CommandManager.register(DEBUGMODE_ON_CMDNAME, DEBUGMODE_ON_CMDID, onMenuDebugModeOn);
-        function onMenuDebugModeOn(){
-            enableDebugging();
-        }
-
         CommandManager.register(NEW_ACC_MENU_NAME, NEW_ACC_CMDID, onMenuCreateNewACC);    
         function onMenuCreateNewACC(){
             createPanel();
-        }    
+        }
 
+        CommandManager.register(DEBUGMODE_ON_CMDNAME, DEBUGMODE_ON_CMDID, onMenuDebugModeOn);
+        function onMenuDebugModeOn(){
+            enableDebugging();
+        }		
 
         var ACCMenu =  Menus.getMenu(ACC_MENU_ID);
         if (!ACCMenu) {

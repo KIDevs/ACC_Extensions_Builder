@@ -1,3 +1,6 @@
+/* Toolbar icon */
+#html-acc-toolbar { background-image: url("../html/img/toolbar.svg"); }
+
 /* Prevent scrollbars, slightly enlarge dialog */
 .modal-body.html-acc {
   overflow: hidden;

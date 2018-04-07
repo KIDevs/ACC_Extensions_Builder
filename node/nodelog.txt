@@ -1039,3 +1039,566 @@ Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\e
 "chmod" �� ����� ����७��� ��� ���譥�
 ��������, �ᯮ��塞�� �ணࠬ��� ��� �������� 䠩���.
 
+start Wed Dec 06 2017 13:34:21 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat" default com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+start Wed Dec 06 2017 16:10:38 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 06 2017 17:09:56 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+"chmod" �� ����� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� �������� 䠩���.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+"chmod" �� ����� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� �������� 䠩���.
+
+start Sat Dec 16 2017 12:57:04 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sat Dec 16 2017 14:54:59 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" default com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+start Sat Dec 16 2017 14:58:09 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sat Dec 16 2017 14:59:10 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sat Dec 16 2017 15:02:32 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sat Dec 16 2017 15:05:32 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+
+start Sun Dec 17 2017 12:46:19 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sun Dec 17 2017 12:47:50 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Tue Dec 19 2017 10:43:36 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+start Tue Dec 19 2017 10:51:40 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Tue Dec 19 2017 12:21:56 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" default com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+start Tue Dec 19 2017 12:30:02 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+start Wed Dec 20 2017 10:37:16 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 10:38:04 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:08:17 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:22:04 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:22:46 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:23:20 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:24:28 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:29:37 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:30:00 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:40:06 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 11:54:58 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" default com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/debugmode.bat"
+start Wed Dec 20 2017 12:32:29 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:37:41 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:39:58 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:40:55 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:42:03 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:45:32 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:46:16 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:47:46 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:49:09 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+start Wed Dec 20 2017 12:54:08 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:56:59 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext1'
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext1'
+'"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext1'' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'
+'"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'
+'"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat  undefined com.acc.ext'' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 12:58:57 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat" undefined com.acc.ext1'
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat" undefined com.acc.ext1'
+'"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat"' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat" undefined com.acc.ext'
+Error: Command failed: "C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat" undefined com.acc.ext'
+'"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/createext.bat"' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 13:02:12 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Wed Dec 20 2017 13:03:59 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.extсчясяч'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.extсчясяч'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.ac1111c.ext1'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.ac1111c.ext1'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext1'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext1'
+
+start Wed Dec 20 2017 13:06:37 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.extрпе'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.extрпе'
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" undefined com.acc.ext'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext'
+
+start Wed Dec 20 2017 13:11:00 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exec:"C:/Users/KICreativo/AppData/Roaming/Brackets/extensions/user/kidev.accbuilder/SDK/newext.bat" theme com.acc.ext54к'
+stdout:C:\Users\KICreativo\AppData\Roaming\Adobe\CEP\extensions\com.acc.ext54к'
+
+start Fri Dec 22 2017 08:49:48 GMT+0300 (Московское время (зима)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+start Sat Apr 07 2018 10:48:47 GMT+0400 (Московское время (лето)) -- Platform: win32
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+Exec:chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/setdebugmode.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
+Error: Command failed: chmod 755 'C:\Users\KICreativo\AppData\Roaming\Brackets\extensions\user\kidev.accbuilder\node/../SDK/createext.sh'
+'chmod' is not recognized as an internal or external command,
+operable program or batch file.
+
