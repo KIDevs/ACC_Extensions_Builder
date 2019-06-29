@@ -47,7 +47,7 @@ See [NEWS.md](NEWS.md)
 # License #
 [MIT License](LICENSE)
 
-Created 2017-2018 [[KI.LAB] [KICreativo.pro)](http://kicreativo.pro)
+Created 2017-2019 [KI.LAB]
 
 # Credits #
 Thanks to David Deraedt (for the base of extension http://davidderaedt.github.io/CC-Extension-Builder-for-Brackets/)
